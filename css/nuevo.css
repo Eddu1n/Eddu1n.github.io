@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+
+
+.navbar{
+    background-color: #454647;
+}
+#VERDE{
+    color: #29a245;
+}
+    
+.agua{
+text-align:right;  
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(
+        /img/ba1.jpg) ;
+    background-repeat:no-repeat;
+    background-size:cover ;
+}
+   #parrafo{
+    display: flex; 
+    justify-content:flex-end; 
+  align-items: center ;
+   height:750px;
+   }
+
+   .oradores{
+    margin: 15px;
+    margin-left: 100px; 
+    margin-right: 100px
+   }
+
+   #cartas{
+    display: flex; 
+    justify-content: space-evenly
+   }
+
+   #botonverde{
+    width: 100%;
+     background-color: #96c93e;
+      color: white;
+   }
+
+   #navbarfooter{
+    background-color:#1c3846;
+    background-image: linear-gradient(15deg,#1c3846 0%, #1f5271 100%);
+   }
+#ulfooter{
+    justify-content: space-between;
+     width: 100%;
+}
