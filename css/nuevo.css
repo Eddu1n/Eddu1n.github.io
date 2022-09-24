@@ -2,7 +2,7 @@
 
 
 .navbar{
-    background-color: #454647;
+    background-color: #454646;
 }
 #VERDE{
     color: #29a245;
@@ -46,4 +46,8 @@ text-align:right;
 #ulfooter{
     justify-content: space-between;
      width: 100%;
+}
+
+#prf{
+    font-family: 'Alata', sans-serif;
 }
