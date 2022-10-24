@@ -31,7 +31,7 @@ function calcularPorcentaje() {
 
     } else if (categoria == 'Junior') {
       total = ticketJr * cantidad;
-      document.getElementById('importeTotal').innerHTML =
+      document.getElementById('total').innerHTML =
       'Total a Pagar: $' + total;
 
 
